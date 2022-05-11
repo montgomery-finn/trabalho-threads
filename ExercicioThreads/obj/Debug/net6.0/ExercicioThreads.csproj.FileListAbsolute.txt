@@ -17,3 +17,14 @@ D:\UTFPR\2022.1\Sistemas distribuidos\trabalho-threads\ExercicioThreads\obj\Debu
 D:\UTFPR\2022.1\Sistemas distribuidos\trabalho-threads\ExercicioThreads\obj\Debug\net6.0\ExercicioThreads.AssemblyInfoInputs.cache
 D:\UTFPR\2022.1\Sistemas distribuidos\trabalho-threads\ExercicioThreads\obj\Debug\net6.0\ExercicioThreads.AssemblyInfo.cs
 D:\UTFPR\2022.1\Sistemas distribuidos\trabalho-threads\ExercicioThreads\obj\Debug\net6.0\ExercicioThreads.csproj.CoreCompileInputs.cache
+D:\UTFPR\2022.1\Sistemas distribuidos\trabalho-threads\ExercicioThreads\bin\Debug\net6.0\ExercicioThreads.exe
+D:\UTFPR\2022.1\Sistemas distribuidos\trabalho-threads\ExercicioThreads\bin\Debug\net6.0\ExercicioThreads.deps.json
+D:\UTFPR\2022.1\Sistemas distribuidos\trabalho-threads\ExercicioThreads\bin\Debug\net6.0\ExercicioThreads.runtimeconfig.json
+D:\UTFPR\2022.1\Sistemas distribuidos\trabalho-threads\ExercicioThreads\bin\Debug\net6.0\ExercicioThreads.dll
+D:\UTFPR\2022.1\Sistemas distribuidos\trabalho-threads\ExercicioThreads\bin\Debug\net6.0\ExercicioThreads.pdb
+D:\UTFPR\2022.1\Sistemas distribuidos\trabalho-threads\ExercicioThreads\obj\Debug\net6.0\ExercicioThreads.csproj.AssemblyReference.cache
+D:\UTFPR\2022.1\Sistemas distribuidos\trabalho-threads\ExercicioThreads\obj\Debug\net6.0\ExercicioThreads.dll
+D:\UTFPR\2022.1\Sistemas distribuidos\trabalho-threads\ExercicioThreads\obj\Debug\net6.0\refint\ExercicioThreads.dll
+D:\UTFPR\2022.1\Sistemas distribuidos\trabalho-threads\ExercicioThreads\obj\Debug\net6.0\ExercicioThreads.pdb
+D:\UTFPR\2022.1\Sistemas distribuidos\trabalho-threads\ExercicioThreads\obj\Debug\net6.0\ExercicioThreads.genruntimeconfig.cache
+D:\UTFPR\2022.1\Sistemas distribuidos\trabalho-threads\ExercicioThreads\obj\Debug\net6.0\ref\ExercicioThreads.dll
